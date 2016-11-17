@@ -1,6 +1,5 @@
 /* 
  * File:   main.c
- * Author: Daniel Huffer
  * Reference: http://www.cs.kent.edu/~ruttan/sysprog/lectures/multi-thread/thread-pool-server-with-join.c
  * Created on November 17, 2016, 4:07 PM
  */
